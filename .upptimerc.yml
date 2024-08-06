@@ -8,15 +8,11 @@ sites:
     url: https://falcon.crowdstrike.com/login/
   - name: Gold Coast
     url: https://www.goldcoast.qld.gov.au/Home
-  - name: Test Down
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   baseUrl: /gitup
   logoUrl: https://www.icons101.com/icon_png/size_256/id_60277/258_Mudkip.png
-  name: GitUp
-  introTitle: "Do sum status moniter by github actions"
-  introMessage: "Do u liek mudkipz?"
+  name: GitUp - Powered by mudkipz
   navbar:
     - title: Monitorz
       href: /
