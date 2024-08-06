@@ -6,14 +6,14 @@ sites:
     url: https://ts01-b.cloudsink.net
   - name: Crowdstrike Login
     url: https://falcon.crowdstrike.com/login/
-  - name: Gold Coast Main
+  - name: Gold Coast
     url: https://www.goldcoast.qld.gov.au/Home
-  - name: Test Broken Site
+  - name: Test Down
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
   baseUrl: /gitup
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.icons101.com/icon_png/size_128/id_60277/258_Mudkip.png
   name: GitUp
   introTitle: "Do sum status moniter by github actions"
   introMessage: "Do u liek mudkipz?"
