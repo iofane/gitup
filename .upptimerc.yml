@@ -12,19 +12,11 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
   baseUrl: /gitup
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: 
+  name: GitUp
+  introTitle: "Do sum status moniter by github actions"
+  introMessage: "Do u liek mudkipz?"
   navbar:
-    - title: Status
+    - title: Monitorz
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
