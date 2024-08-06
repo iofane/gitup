@@ -6,8 +6,8 @@ sites:
     url: https://ts01-b.cloudsink.net
   - name: Crowdstrike Login
     url: https://falcon.crowdstrike.com/login/
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Gold Coast Main
+    url: https://www.goldcoast.qld.gov.au/Home
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
