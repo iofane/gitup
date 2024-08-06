@@ -2,8 +2,9 @@ owner: iofane
 repo: gitup
 
 sites:
-  - name: Crowdstrike
+  - name: Crowdstrike US-1
     url: https://ts01-b.cloudsink.net
+  - name: Crowdstrike Login
     url: https://falcon.crowdstrike.com/login/
   - name: Hacker News
     url: https://news.ycombinator.com
