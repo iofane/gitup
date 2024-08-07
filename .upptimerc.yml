@@ -11,9 +11,11 @@ sites:
   - name: Netskope SV5 - 1
     check: "tcp-ping"
     url: 8.36.116.1
+    port: 443
   - name: Netskope SV5 - 2
     check: "tcp-ping"
-    url: 163.116.128.1
+    url: cogc.goskope.com
+    port: 53
 
 status-website:
   baseUrl: /gitup
