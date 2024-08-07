@@ -10,12 +10,10 @@ sites:
     url: https://www.goldcoast.qld.gov.au/Home
   - name: Netskope SV5 - 1
     check: "tcp-ping"
-    url: 8.36.116.1
-    port: 443
+    url: 8.36.116.70
+    port: 80
   - name: Netskope SV5 - 2
-    check: "tcp-ping"
-    url: cogc.goskope.com
-    port: 53
+    url: https://cogc.goskope.com
 
 status-website:
   baseUrl: /gitup
