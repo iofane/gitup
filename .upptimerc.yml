@@ -11,11 +11,9 @@ sites:
   - name: Netskope SV5 - 1
     check: "tcp-ping"
     url: 8.36.116.1
-    port: 53
   - name: Netskope SV5 - 2
     check: "tcp-ping"
     url: 163.116.128.1
-    port: 53
 
 status-website:
   baseUrl: /gitup
