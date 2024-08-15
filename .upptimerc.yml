@@ -8,16 +8,16 @@ sites:
     url: https://falcon.crowdstrike.com/login/
   - name: Gold Coast
     url: https://www.goldcoast.qld.gov.au/Home
-  - name: Netskope SV5 MGMT IP - 1 
+  - name: Netskope SV5 MGMT IP
     icon: https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg
     check: "tcp-ping"
     url: 8.36.116.70
     port: 80
-  - name: Netskope SV5 MGMT IP - 2
+  - name: Netskope MGMT GW
     icon: https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg
     check: "tcp-ping"
-    url: 163.116.128.1
-    port: 80
+    url: $NETSKOPE_GW
+    port: 443
   - name: Netskope MGMT Portal
     icon: https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg
     url: $NETSKOPE
