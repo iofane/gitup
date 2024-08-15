@@ -26,3 +26,12 @@ status-website:
   baseUrl: /gitup
   logoUrl: https://www.icons101.com/icon_png/size_256/id_60277/258_Mudkip.png
   name: GitUp - Powered by mudkipz
+
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
+  updateTemplate: "*/5 * * * *"
+  updates: "*/5 * * * *"
+  uptime: "*/5 * * * *"
