@@ -1,6 +1,6 @@
 owner: iofane
 repo: gitup
-
+user-agent: iofane
 sites:
   - name: Crowdstrike US-1
     url: https://ts01-b.cloudsink.net
@@ -28,10 +28,10 @@ status-website:
   name: GitUp - Powered by mudkipz
 
 workflowSchedule:
-  graphs: "*/5 * * * *"
-  responseTime: "*/5 * * * *"
-  staticSite: "*/5 * * * *"
-  summary: "*/5 * * * *"
-  updateTemplate: "*/5 * * * *"
-  updates: "*/5 * * * *"
+  graphs: "*/30 * * * *"
+  responseTime: "*/30 * * * *"
+  staticSite: "*/30 * * * *"
+  summary: "*/30 * * * *"
+  updateTemplate: "*/30 * * * *"
+  updates: "*/30 * * * *"
   uptime: "*/5 * * * *"
