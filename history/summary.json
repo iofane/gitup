@@ -76,12 +76,12 @@
     "url": "$NETSKOPE_GW",
     "icon": "https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg",
     "slug": "netskope-mgmt-gw",
-    "status": "up",
-    "uptime": "82.62%",
+    "status": "down",
+    "uptime": "82.91%",
     "uptimeDay": "52.97%",
-    "uptimeWeek": "77.28%",
-    "uptimeMonth": "82.62%",
-    "uptimeYear": "82.62%",
+    "uptimeWeek": "77.63%",
+    "uptimeMonth": "82.91%",
+    "uptimeYear": "82.91%",
     "time": 193,
     "timeDay": 195,
     "timeWeek": 192,
@@ -91,7 +91,7 @@
       "2024-08-24": 211,
       "2024-08-23": 633,
       "2024-08-22": 679,
-      "2024-08-21": 770
+      "2024-08-21": 735
     }
   },
   {
