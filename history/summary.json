@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 312,
-    "timeWeek": 246,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "time": 281,
+    "timeDay": 329,
+    "timeWeek": 257,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 237,
-    "timeWeek": 208,
-    "timeMonth": 244,
-    "timeYear": 244,
+    "time": 247,
+    "timeDay": 320,
+    "timeWeek": 222,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1326,
-    "timeDay": 892,
-    "timeWeek": 1388,
-    "timeMonth": 1326,
-    "timeYear": 1326,
+    "time": 1328,
+    "timeDay": 1367,
+    "timeWeek": 1385,
+    "timeMonth": 1328,
+    "timeYear": 1328,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 42,
-    "timeDay": 51,
-    "timeWeek": 41,
-    "timeMonth": 42,
-    "timeYear": 42,
+    "time": 43,
+    "timeDay": 67,
+    "timeWeek": 45,
+    "timeMonth": 43,
+    "timeYear": 43,
     "dailyMinutesDown": {}
   },
   {
@@ -76,12 +76,12 @@
     "url": "$NETSKOPE_GW",
     "icon": "https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg",
     "slug": "netskope-mgmt-gw",
-    "status": "up",
-    "uptime": "91.06%",
-    "uptimeDay": "52.00%",
-    "uptimeWeek": "84.89%",
-    "uptimeMonth": "91.06%",
-    "uptimeYear": "91.06%",
+    "status": "down",
+    "uptime": "91.20%",
+    "uptimeDay": "53.06%",
+    "uptimeWeek": "85.10%",
+    "uptimeMonth": "91.20%",
+    "uptimeYear": "91.20%",
     "time": 191,
     "timeDay": 185,
     "timeWeek": 191,
@@ -90,7 +90,7 @@
     "dailyMinutesDown": {
       "2024-08-26": 656,
       "2024-08-25": 646,
-      "2024-08-24": 218
+      "2024-08-24": 196
     }
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 955,
-    "timeDay": 1329,
-    "timeWeek": 942,
-    "timeMonth": 955,
-    "timeYear": 955,
+    "time": 953,
+    "timeDay": 928,
+    "timeWeek": 940,
+    "timeMonth": 953,
+    "timeYear": 953,
     "dailyMinutesDown": {}
   }
 ]
