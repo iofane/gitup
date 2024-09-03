@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 338,
-    "timeWeek": 303,
+    "timeDay": 324,
+    "timeWeek": 296,
     "timeMonth": 287,
     "timeYear": 287,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
-    "timeDay": 286,
-    "timeWeek": 268,
+    "timeDay": 304,
+    "timeWeek": 265,
     "timeMonth": 253,
     "timeYear": 253,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1305,
-    "timeDay": 1319,
-    "timeWeek": 1243,
+    "timeDay": 1292,
+    "timeWeek": 1279,
     "timeMonth": 1305,
     "timeYear": 1305,
     "dailyMinutesDown": {}
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 66,
-    "timeWeek": 54,
+    "timeDay": 65,
+    "timeWeek": 53,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {}
@@ -76,10 +76,10 @@
     "url": "$NETSKOPE_GW",
     "icon": "https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg",
     "slug": "netskope-mgmt-gw",
-    "status": "down",
+    "status": "up",
     "uptime": "93.71%",
-    "uptimeDay": "48.49%",
-    "uptimeWeek": "82.17%",
+    "uptimeDay": "48.43%",
+    "uptimeWeek": "82.16%",
     "uptimeMonth": "93.71%",
     "uptimeYear": "93.71%",
     "time": 190,
@@ -88,7 +88,7 @@
     "timeMonth": 190,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2024-09-03": 730,
+      "2024-09-03": 731,
       "2024-09-02": 636,
       "2024-09-01": 427
     }
@@ -105,8 +105,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 985,
-    "timeDay": 817,
-    "timeWeek": 1037,
+    "timeDay": 747,
+    "timeWeek": 1047,
     "timeMonth": 985,
     "timeYear": 985,
     "dailyMinutesDown": {}
