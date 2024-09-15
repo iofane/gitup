@@ -13,7 +13,7 @@
     "time": 284,
     "timeDay": 310,
     "timeWeek": 273,
-    "timeMonth": 281,
+    "timeMonth": 279,
     "timeYear": 284,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 244,
     "timeDay": 109,
     "timeWeek": 205,
-    "timeMonth": 239,
+    "timeMonth": 238,
     "timeYear": 244,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1245,
     "timeDay": 1159,
     "timeWeek": 1152,
-    "timeMonth": 1320,
+    "timeMonth": 1328,
     "timeYear": 1245,
     "dailyMinutesDown": {}
   },
@@ -76,12 +76,12 @@
     "url": "$NETSKOPE_GW",
     "icon": "https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg",
     "slug": "netskope-mgmt-gw",
-    "status": "up",
-    "uptime": "96.83%",
-    "uptimeDay": "55.71%",
-    "uptimeWeek": "85.57%",
-    "uptimeMonth": "96.68%",
-    "uptimeYear": "96.83%",
+    "status": "down",
+    "uptime": "96.85%",
+    "uptimeDay": "56.22%",
+    "uptimeWeek": "85.65%",
+    "uptimeMonth": "96.70%",
+    "uptimeYear": "96.85%",
     "time": 190,
     "timeDay": 192,
     "timeWeek": 190,
@@ -90,7 +90,7 @@
     "dailyMinutesDown": {
       "2024-09-15": 622,
       "2024-09-14": 507,
-      "2024-09-13": 321
+      "2024-09-13": 313
     }
   },
   {
@@ -107,7 +107,7 @@
     "time": 1006,
     "timeDay": 727,
     "timeWeek": 907,
-    "timeMonth": 1006,
+    "timeMonth": 1001,
     "timeYear": 1006,
     "dailyMinutesDown": {}
   }
