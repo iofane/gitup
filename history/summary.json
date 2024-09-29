@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 266,
-    "timeDay": 42,
-    "timeWeek": 169,
-    "timeMonth": 251,
+    "timeDay": 43,
+    "timeWeek": 186,
+    "timeMonth": 249,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 61,
-    "timeWeek": 168,
-    "timeMonth": 218,
+    "timeDay": 62,
+    "timeWeek": 182,
+    "timeMonth": 216,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1259,
-    "timeDay": 941,
-    "timeWeek": 1252,
-    "timeMonth": 1228,
+    "timeDay": 903,
+    "timeWeek": 1243,
+    "timeMonth": 1224,
     "timeYear": 1259,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 2,
-    "timeWeek": 29,
-    "timeMonth": 43,
+    "timeDay": 1,
+    "timeWeek": 33,
+    "timeMonth": 42,
     "timeYear": 44,
     "dailyMinutesDown": {}
   },
@@ -76,12 +76,12 @@
     "url": "$NETSKOPE_GW",
     "icon": "https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg",
     "slug": "netskope-mgmt-gw",
-    "status": "up",
-    "uptime": "97.40%",
-    "uptimeDay": "49.61%",
-    "uptimeWeek": "82.99%",
-    "uptimeMonth": "96.09%",
-    "uptimeYear": "97.40%",
+    "status": "down",
+    "uptime": "97.42%",
+    "uptimeDay": "49.67%",
+    "uptimeWeek": "83.10%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "97.42%",
     "time": 190,
     "timeDay": 189,
     "timeWeek": 190,
@@ -90,7 +90,7 @@
     "dailyMinutesDown": {
       "2024-09-29": 687,
       "2024-09-28": 735,
-      "2024-09-27": 294
+      "2024-09-27": 283
     }
   },
   {
@@ -105,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 958,
-    "timeDay": 901,
-    "timeWeek": 895,
-    "timeMonth": 960,
+    "timeDay": 532,
+    "timeWeek": 908,
+    "timeMonth": 962,
     "timeYear": 958,
     "dailyMinutesDown": {}
   }
