@@ -40,9 +40,9 @@
     "url": "https://www.goldcoast.qld.gov.au/Home",
     "icon": "https://icons.duckduckgo.com/ip3/www.goldcoast.qld.gov.au.ico",
     "slug": "gold-coast",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -52,6 +52,7 @@
     "timeMonth": 1292,
     "timeYear": 1298,
     "dailyMinutesDown": {
+      "2024-10-03": 0,
       "2024-10-01": 20
     }
   },
@@ -80,7 +81,7 @@
     "slug": "netskope-mgmt-gw",
     "status": "up",
     "uptime": "97.09%",
-    "uptimeDay": "55.59%",
+    "uptimeDay": "56.37%",
     "uptimeWeek": "79.40%",
     "uptimeMonth": "95.26%",
     "uptimeYear": "97.09%",
