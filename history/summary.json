@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 168,
+    "timeDay": 52,
     "timeWeek": 209,
-    "timeMonth": 232,
+    "timeMonth": 227,
     "timeYear": 262,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 156,
+    "timeDay": 68,
     "timeWeek": 192,
-    "timeMonth": 216,
+    "timeMonth": 214,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 1277,
-    "timeDay": 974,
-    "timeWeek": 1184,
-    "timeMonth": 1304,
+    "timeDay": 837,
+    "timeWeek": 1088,
+    "timeMonth": 1317,
     "timeYear": 1277,
     "dailyMinutesDown": {
       "2024-10-03": 11,
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 44,
-    "timeDay": 27,
-    "timeWeek": 40,
-    "timeMonth": 40,
+    "timeDay": 2,
+    "timeWeek": 38,
+    "timeMonth": 39,
     "timeYear": 44,
     "dailyMinutesDown": {}
   },
@@ -79,21 +79,21 @@
     "url": "$NETSKOPE_GW",
     "icon": "https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg",
     "slug": "netskope-mgmt-gw",
-    "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "55.99%",
-    "uptimeWeek": "81.55%",
-    "uptimeMonth": "95.76%",
-    "uptimeYear": "98.04%",
+    "status": "down",
+    "uptime": "98.05%",
+    "uptimeDay": "56.11%",
+    "uptimeWeek": "81.62%",
+    "uptimeMonth": "95.77%",
+    "uptimeYear": "98.05%",
     "time": 189,
-    "timeDay": 184,
+    "timeDay": 182,
     "timeWeek": 189,
     "timeMonth": 189,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2024-10-19": 618,
       "2024-10-18": 717,
-      "2024-10-17": 524
+      "2024-10-17": 517
     }
   },
   {
@@ -110,7 +110,7 @@
     "time": 974,
     "timeDay": 747,
     "timeWeek": 912,
-    "timeMonth": 955,
+    "timeMonth": 956,
     "timeYear": 974,
     "dailyMinutesDown": {}
   }
