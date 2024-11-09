@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 225,
-    "timeWeek": 277,
-    "timeMonth": 242,
+    "timeDay": 119,
+    "timeWeek": 272,
+    "timeMonth": 241,
     "timeYear": 257,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 199,
-    "timeWeek": 233,
-    "timeMonth": 220,
+    "timeDay": 112,
+    "timeWeek": 224,
+    "timeMonth": 217,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1261,
-    "timeDay": 1012,
-    "timeWeek": 1143,
+    "timeDay": 1147,
+    "timeWeek": 1171,
     "timeMonth": 1196,
     "timeYear": 1261,
     "dailyMinutesDown": {
@@ -68,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 43,
-    "timeDay": 45,
-    "timeWeek": 48,
-    "timeMonth": 43,
+    "timeDay": 16,
+    "timeWeek": 45,
+    "timeMonth": 42,
     "timeYear": 43,
     "dailyMinutesDown": {}
   },
@@ -79,12 +79,12 @@
     "url": "$NETSKOPE_GW",
     "icon": "https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg",
     "slug": "netskope-mgmt-gw",
-    "status": "up",
-    "uptime": "98.27%",
-    "uptimeDay": "52.82%",
-    "uptimeWeek": "78.56%",
-    "uptimeMonth": "95.07%",
-    "uptimeYear": "98.27%",
+    "status": "down",
+    "uptime": "98.31%",
+    "uptimeDay": "53.28%",
+    "uptimeWeek": "79.05%",
+    "uptimeMonth": "95.18%",
+    "uptimeYear": "98.31%",
     "time": 189,
     "timeDay": 185,
     "timeWeek": 187,
@@ -93,7 +93,7 @@
     "dailyMinutesDown": {
       "2024-11-09": 636,
       "2024-11-08": 852,
-      "2024-11-07": 672
+      "2024-11-07": 623
     }
   },
   {
@@ -108,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 976,
-    "timeDay": 1000,
+    "timeDay": 906,
     "timeWeek": 993,
-    "timeMonth": 975,
+    "timeMonth": 965,
     "timeYear": 976,
     "dailyMinutesDown": {}
   }
