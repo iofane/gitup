@@ -1,7 +1,7 @@
 url: $NETSKOPE
-status: down
-code: 503
-responseTime: 204
-lastUpdated: 2025-05-07T10:52:31.381Z
+status: up
+code: 200
+responseTime: 1162
+lastUpdated: 2025-05-07T20:39:02.394Z
 startTime: 2024-08-15T02:00:08.126Z
 generator: Upptime <https://github.com/upptime/upptime>
