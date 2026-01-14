@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 74,
-    "timeWeek": 257,
-    "timeMonth": 260,
+    "timeDay": 400,
+    "timeWeek": 255,
+    "timeMonth": 263,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2025-03-04": 7,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 643,
-    "timeWeek": 287,
-    "timeMonth": 284,
+    "timeDay": 310,
+    "timeWeek": 291,
+    "timeMonth": 285,
     "timeYear": 221,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1450,
-    "timeDay": 864,
+    "time": 1449,
+    "timeDay": 1386,
     "timeWeek": 1386,
-    "timeMonth": 1519,
+    "timeMonth": 1460,
     "timeYear": 1514,
     "dailyMinutesDown": {
       "2025-12-04": 9,
@@ -79,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 2,
-    "timeWeek": 31,
+    "timeDay": 62,
+    "timeWeek": 37,
     "timeMonth": 40,
     "timeYear": 39,
     "dailyMinutesDown": {}
@@ -91,7 +91,7 @@
     "icon": "https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg",
     "slug": "netskope-mgmt-gw",
     "status": "down",
-    "uptime": "19.75%",
+    "uptime": "19.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -102,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-13": 13,
+      "2026-01-14": 15,
+      "2026-01-13": 1440,
       "2026-01-12": 1440,
       "2026-01-11": 1440,
       "2026-01-10": 1440,
@@ -465,8 +466,7 @@
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
-      "2025-01-15": 1440,
-      "2025-01-14": 1440
+      "2025-01-15": 1440
     }
   },
   {
@@ -481,10 +481,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 1033,
-    "timeDay": 597,
-    "timeWeek": 1013,
-    "timeMonth": 919,
-    "timeYear": 1031,
+    "timeDay": 802,
+    "timeWeek": 992,
+    "timeMonth": 925,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2025-05-07": 644,
       "2025-02-24": 37
