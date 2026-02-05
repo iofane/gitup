@@ -72,19 +72,19 @@
     "url": "8.36.116.70",
     "icon": "https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg",
     "slug": "netskope-sv-5-mgmt-ip",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 40,
     "timeDay": 2,
-    "timeWeek": 26,
-    "timeMonth": 29,
+    "timeWeek": 23,
+    "timeMonth": 28,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2026-02-05": 0
+      "2026-02-05": 26
     }
   },
   {
@@ -104,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-05": 357,
+      "2026-02-05": 384,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
